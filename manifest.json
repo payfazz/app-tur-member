@@ -20,7 +20,6 @@
   ],
   "start_url": "/app-tur-member/",
   "display": "standalone",
-  "scope": "/",
   "theme_color": "#000000",
   "background_color": "#ffffff"
 }
