@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3b056c6aa31b009900d5e95a7e92a868",
+    "revision": "5aa814e3efd87c6b2d13b0fe3221b173",
     "url": "/app-tur-member/index.html"
   },
   {
@@ -16,11 +16,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app-tur-member/static/css/4.9591cdbd.chunk.css"
   },
   {
-    "revision": "0ea51c52150cf41407a1",
+    "revision": "eb0b22236f2e6a0f3dc3",
     "url": "/app-tur-member/static/css/5.1b01bded.chunk.css"
   },
   {
-    "revision": "d3dc6c7e6745b36fdb24",
+    "revision": "8ddc2ca453a9174507b6",
     "url": "/app-tur-member/static/css/6.1b01bded.chunk.css"
   },
   {
@@ -36,7 +36,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app-tur-member/static/css/9.37d5a2ab.chunk.css"
   },
   {
-    "revision": "fe98226ea204f020632b",
+    "revision": "059d57c627fa13115d81",
     "url": "/app-tur-member/static/css/main.dd7b9d21.chunk.css"
   },
   {
@@ -68,12 +68,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app-tur-member/static/js/4.32759da4.chunk.js"
   },
   {
-    "revision": "0ea51c52150cf41407a1",
-    "url": "/app-tur-member/static/js/5.7597a48a.chunk.js"
+    "revision": "eb0b22236f2e6a0f3dc3",
+    "url": "/app-tur-member/static/js/5.a2064d4b.chunk.js"
   },
   {
-    "revision": "d3dc6c7e6745b36fdb24",
-    "url": "/app-tur-member/static/js/6.3a53d825.chunk.js"
+    "revision": "8ddc2ca453a9174507b6",
+    "url": "/app-tur-member/static/js/6.5cf406b7.chunk.js"
   },
   {
     "revision": "e1d866316243dc93e2e7",
@@ -88,12 +88,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app-tur-member/static/js/9.03378175.chunk.js"
   },
   {
-    "revision": "fe98226ea204f020632b",
-    "url": "/app-tur-member/static/js/main.d6e3b765.chunk.js"
+    "revision": "059d57c627fa13115d81",
+    "url": "/app-tur-member/static/js/main.fbbafdee.chunk.js"
   },
   {
-    "revision": "a826b97c9005b8a0b544",
-    "url": "/app-tur-member/static/js/runtime-main.226bf0ac.js"
+    "revision": "76928deb0a6c3ec812ec",
+    "url": "/app-tur-member/static/js/runtime-main.611fad08.js"
   },
   {
     "revision": "024030908618c2f40ae9a1c120a4a92f",
