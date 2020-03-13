@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fe5767e294cad58558034cad59d1932c",
+    "revision": "582f73085339bb8b5f20cf7b126f3b72",
     "url": "/app-tur-member/index.html"
   },
   {
@@ -40,7 +40,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app-tur-member/static/css/9.f5e37ad1.chunk.css"
   },
   {
-    "revision": "b03ddd46e8098f1f8a12",
+    "revision": "6014b053de8855ecfa8d",
     "url": "/app-tur-member/static/css/main.dd7b9d21.chunk.css"
   },
   {
@@ -96,8 +96,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app-tur-member/static/js/9.a37f04d2.chunk.js"
   },
   {
-    "revision": "b03ddd46e8098f1f8a12",
-    "url": "/app-tur-member/static/js/main.849fd667.chunk.js"
+    "revision": "6014b053de8855ecfa8d",
+    "url": "/app-tur-member/static/js/main.0ac83429.chunk.js"
   },
   {
     "revision": "19c1904baf8722fac20a",
