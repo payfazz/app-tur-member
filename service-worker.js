@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/app-tur-member/precache-manifest.019f142dd6dde32cad5ceea08bff7e48.js"
+  "/app-tur-member/precache-manifest.4f64f38b795e231418082fc99975f432.js"
 );
 
 self.addEventListener('message', (event) => {
